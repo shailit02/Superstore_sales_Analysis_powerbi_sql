@@ -28,7 +28,3 @@ PostgreSQL | CTEs | Window Functions | pgAdmin | Power BI
 ## Dataset
 Sample Superstore — 9,994 orders, 4 years (2021–2024)
 
-## Coming Soon
-- 5 page Power BI dashboard investigating loss-making segments
-- DAX measures for dynamic profit margin and MoM growth
-- Business recommendations based on discount and category analysis
