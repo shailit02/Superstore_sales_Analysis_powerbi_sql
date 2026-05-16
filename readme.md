@@ -8,15 +8,6 @@ loses money and why.
 ## Tools
 PostgreSQL | CTEs | Window Functions | pgAdmin | Power BI 
 
-## Project Status
-| Component | Status |
-|-----------|--------|
-| Data Cleaning | ✅ Complete |
-| PostgreSQL Schema | ✅ Complete |
-| 12 Advanced SQL Queries | ✅ Complete |
-| Key Findings Documentation | ✅ Complete |
-| Power BI Dashboard (5 pages) | 🔄 In Progress |
-
 ## Analyses Performed
 1. Revenue & profit by region
 2. Top 10 profitable products
